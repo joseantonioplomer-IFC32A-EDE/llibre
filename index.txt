@@ -3,8 +3,5 @@ Capítol 2: Flux de treball bàsic
 Capítol 3: Gestió de branques
 Capítol 4: Repositoris remots
 Capítol 5: Conceptes avançats
-<<<<<<< HEAD
 Linia modificada desde la branca conflicteB
-=======
 Linea modificada conflicteA
->>>>>>> conflicteA
